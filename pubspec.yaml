@@ -44,7 +44,7 @@ dev_dependencies:
 
 dependency_overrides:
   file: ^7.0.1
-  pdfrx_engine: 0.4.4
+  pdfrx_engine: 0.4.7
 
 flutter_icons:
    android: true
