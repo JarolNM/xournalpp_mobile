@@ -33,7 +33,7 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   font_awesome_flutter: ^11.0.0
-  pdfrx: ^2.4.4
+  pdfrx: ^2.4.7
   pdfium_flutter: ^0.2.2
   image: ^4.8.0
 dev_dependencies:
